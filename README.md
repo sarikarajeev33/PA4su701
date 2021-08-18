@@ -1,5 +1,4 @@
 Programming Assignment 4
-Due: Wed Nov 4, 11:59 pm
 
 Note: For this assignment you must work in a group of two or three members.
 
@@ -22,7 +21,7 @@ Commit and push changes and check your repository on github.com to confirm your 
 
 Intro comments template
     # Programmers: [your name]
-    # Course: CS151, Dr. Rajeev  
+    # Course: CS701/GB731, Dr. Rajeev  
     # Programming Assignment: 4
     # Program Inputs: [What information do you request from the user?]
     # Program Outputs: [What information do you display for the user?]
@@ -40,4 +39,4 @@ A function which, given a list parameter representing a hand of cards, returns i
 A main function to drive the program and enable play.
 
 Submission
-GitHub: Completed .py file (including comments).
+Moodle: Completed .ipynb/.py file (including comments).
